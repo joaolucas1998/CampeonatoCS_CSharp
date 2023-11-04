@@ -1,0 +1,14 @@
+C:\Users\joao\Desktop\ap2camp\bin\Debug\net7.0\ap2camp.exe
+C:\Users\joao\Desktop\ap2camp\bin\Debug\net7.0\ap2camp.deps.json
+C:\Users\joao\Desktop\ap2camp\bin\Debug\net7.0\ap2camp.runtimeconfig.json
+C:\Users\joao\Desktop\ap2camp\bin\Debug\net7.0\ap2camp.dll
+C:\Users\joao\Desktop\ap2camp\bin\Debug\net7.0\ap2camp.pdb
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\ap2camp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\ap2camp.AssemblyInfoInputs.cache
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\ap2camp.AssemblyInfo.cs
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\ap2camp.csproj.CoreCompileInputs.cache
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\ap2camp.dll
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\refint\ap2camp.dll
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\ap2camp.pdb
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\ap2camp.genruntimeconfig.cache
+C:\Users\joao\Desktop\ap2camp\obj\Debug\net7.0\ref\ap2camp.dll
